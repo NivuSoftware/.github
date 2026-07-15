@@ -1,66 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:0F172A&height=220&section=header&text=NivuSoftware&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Development%20Company&descAlignY=55&descSize=18" width="100%" />
+<br/>
 
-<a href="https://nivusoftware.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Construimos+software+que+escala.;Web+%7C+Cloud+%7C+Automatizaci%C3%B3n;TypeScript+%E2%80%A2+Laravel+%E2%80%A2+React+%E2%80%A2+Node" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=440&height=28&lines=NIVUSOFTWARE%20%C2%B7%20QUITO%2C%20ECUADOR" alt="" />
+
+# Construimos software que escala.
+
+<p>
+<sub>Diseñamos, construimos y mantenemos plataformas y sistemas internos<br/>
+para empresas que necesitan software real. No plantillas.</sub>
+</p>
 
 <br/>
 
-<a href="https://nivusoftware.com/"><img src="https://img.shields.io/badge/Website-nivusoftware.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Repos-87-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Quito-Ecuador-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-Readmes/main/assets/rainbow-line.gif" width="100%" />
-
-## `>` Quiénes somos
-
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-Readmes/main/assets/coding.gif" width="280" />
-
-**NivuSoftware** es una casa de desarrollo enfocada en producto: diseñamos, construimos y mantenemos plataformas web y sistemas internos para empresas que necesitan software real, no plantillas.
-
-- 🧩 **Software a medida** — ERP, contabilidad, gestión operativa
-- 🌐 **Plataformas web** — corporativas, e-commerce, portales
-- ⚙️ **Automatización & CI/CD** — despliegues sin fricción
-- ☁️ **Cloud & DevOps** — infraestructura que aguanta
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-Readmes/main/assets/rainbow-line.gif" width="100%" />
-
-## `>` Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,php,python,tailwind,postgres,mysql,docker,aws,git,github,vscode&perline=8" />
-
-</div>
-
-## `>` Actividad
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NivuSoftware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=94A3B8" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NivuSoftware&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NivuSoftware&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true" width="100%" />
-
-</div>
-
-## `>` Trabajemos juntos
-
-<div align="center">
-
-¿Tienes un proyecto en mente? Escríbenos.
-
-<a href="https://nivusoftware.com/"><img src="https://img.shields.io/badge/Contactar-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-<a href="https://nivusoftware.com/"><img src="https://img.shields.io/badge/Portafolio-1E293B?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
+<a href="https://nivusoftware.com/"><img src="https://img.shields.io/badge/nivusoftware.com-020617?style=flat-square&logo=googlechrome&logoColor=38BDF8" height="26" /></a>
+<img src="https://img.shields.io/badge/87_repositorios-020617?style=flat-square&logo=github&logoColor=38BDF8" height="26" />
+<img src="https://img.shields.io/badge/Quito_%C2%B7_EC-020617?style=flat-square&logo=googlemaps&logoColor=38BDF8" height="26" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:38BDF8,100:0EA5E9&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2" width="100%" />
+
+</div>
+
+<br/>
+
+### Qué hacemos
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Software a medida**
+
+ERP, contabilidad y gestión operativa que se adapta al negocio — no al revés.
+
+</td>
+<td width="50%" valign="top">
+
+**Plataformas web**
+
+Corporativas, e-commerce y portales. Rápidas, accesibles, listas para posicionar.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**Automatización & CI/CD**
+
+Pipelines, tests y despliegues sin fricción. Menos manos, menos errores.
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud & DevOps**
+
+Infraestructura que aguanta picos, se monitorea sola y no despierta a nadie a las 3 AM.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E293B,100:020617&height=2" width="100%" />
+</div>
+
+<br/>
+
+### Cómo trabajamos
+
+<br/>
+
+<table>
+<tr>
+<td width="18%"><code>01</code></td>
+<td width="30%"><b>Descubrimiento</b></td>
+<td>Entendemos el negocio antes de escribir una línea.</td>
+</tr>
+<tr>
+<td><code>02</code></td>
+<td><b>Diseño &amp; Build</b></td>
+<td>Arquitectura sólida, código mantenible.</td>
+</tr>
+<tr>
+<td><code>03</code></td>
+<td><b>Despliegue</b></td>
+<td>CI/CD automatizado, staging y rollback.</td>
+</tr>
+<tr>
+<td><code>04</code></td>
+<td><b>Soporte</b></td>
+<td>Acompañamos el producto en producción.</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E293B,100:020617&height=2" width="100%" />
+</div>
+
+<br/>
+
+### Stack
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,nodejs,laravel,tailwind&perline=9" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx,git,github,vscode&perline=9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### ¿Tienes un proyecto en mente?
+
+<sub>Cuéntanos qué necesitas resolver y te decimos cómo lo construimos.</sub>
+
+<br/><br/>
+
+<a href="https://nivusoftware.com/">
+  <img src="https://img.shields.io/badge/Hablemos-0EA5E9?style=for-the-badge&labelColor=0EA5E9&color=0EA5E9" height="38" />
+</a>
+
+<br/><br/><br/>
+
+<sub>Built in Quito 🇪🇨</sub>
+
+<br/>
 
 </div>
